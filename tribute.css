@@ -1,0 +1,33 @@
+
+.main{
+    align-items: center;
+    text-align: center;
+    height: auto;
+    width: auto;
+    background-color: rgb(212, 172, 250);
+    border-radius: 5px;
+}
+
+.image,img{
+    max-height: 400px;
+    max-width: 400px;
+    border-radius: 50%;
+    display: inline;
+    padding-right: 20px;
+   
+    
+}
+
+.name{
+    font-family: "Lucida Console";
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    padding-left: 200px ;
+    align-items: right;
+}
+.content{
+    align-items: left;
+    text-align: left;
+    
+}
